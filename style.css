@@ -24,7 +24,7 @@ body a {
   height: 100vh;
   display: flex;
   gap: var(--index);
-  background-image: url("../imgs/bg.jpg");
+  background-image: url("bg.jpg");
   background-size: cover;
   background-position: center;
   overflow: hidden;
