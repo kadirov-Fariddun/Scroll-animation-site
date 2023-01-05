@@ -2,5 +2,5 @@
 - HTML
 - CSS
 - JS
-- Swipper.js
+- Swiper.js
 - view my project [Scroll-swipper](https://kadirov-fariddun.github.io/Scroll-animation-site/)
